@@ -204,3 +204,4 @@ window.resize(400, 300)
 window.show()
 app.exec()
 
+#Это моё первое изменение репозитория на GITHUB
